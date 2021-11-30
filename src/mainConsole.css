@@ -1,0 +1,21 @@
+.previous-next-buttons {
+    margin-left: 20px;
+}
+.table {
+    border-spacing: 0;
+    border: 1px solid black;
+    width: 100%;
+}
+.padding {
+    margin-left: 200px;
+    margin-right: 500px;
+    padding: 2em;
+    border: 1px solid gray;
+}
+
+.semantic {
+    margin-left: 200px;
+    margin-right: 500px;
+    padding: 2em;
+    border: 1px solid gray;
+}
